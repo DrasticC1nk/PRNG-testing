@@ -4,7 +4,7 @@
 #include <string.h>
 #include <ctype.h>
 #include <conio.h>
-#define MAXVAL 10000000
+#define MAXVAL 10000
 
 int main()
 
