@@ -19,7 +19,7 @@ int main()
   printf("\nHit the enter key to start typing:");
   scanf("");
   
-  while (getchar() != '\n');
+  while (getchar() != '\n')
   
   printf("\n");
 
