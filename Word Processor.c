@@ -23,7 +23,7 @@ int main()
   
   printf("\n");
 
-  for (int i = 0; i < 1; i++)
+  for (;;)
   {
     printf(">>> ");
     fgets(buffer, BUFFER_SIZE, stdin);
