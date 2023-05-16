@@ -4,7 +4,7 @@
 #include <string.h>
 #include <ctype.h>
 #include <conio.h>
-#define MAXVAL 10000000
+#define MAXVAL 10000 //C does not allocate memory by itself thus the code is not allocating 10000000 digits
 
 int main()
 
